@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QNXwE1I+Hyg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tutankamon\\Desktop\\muhammed-yasar\\ProjectCar\\Student-database\\StudentDatabase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tutankamon\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

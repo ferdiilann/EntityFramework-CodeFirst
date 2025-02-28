@@ -1,0 +1,14 @@
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\bin\Debug\net48\StudentDatabase.exe.config
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\bin\Debug\net48\StudentDatabase.exe
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\bin\Debug\net48\StudentDatabase.pdb
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\bin\Debug\net48\EntityFramework.SqlServer.dll
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\bin\Debug\net48\EntityFramework.dll
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.csproj.AssemblyReference.cache
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.AssemblyInfoInputs.cache
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.AssemblyInfo.cs
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.sourcelink.json
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentD.AC84E7A9.Up2Date
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.exe
+C:\Users\Tutankamon\Desktop\muhammed-yasar\ProjectCar\Student-database\obj\Debug\net48\StudentDatabase.pdb
